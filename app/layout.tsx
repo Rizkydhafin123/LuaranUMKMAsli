@@ -13,7 +13,7 @@ const robotoSlab = Roboto_Slab({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
+  title: "Luaran Multi 1 Kel 5", // Updated title
   description: "Created with v0",
   generator: "v0.dev",
 }
